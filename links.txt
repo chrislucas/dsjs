@@ -1,0 +1,3 @@
+http://www.collectionsjs.com/
+https://github.com/montagejs/collections/blob/master/shim-object.js
+http://montagestudio.com/montagejs/
